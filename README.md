@@ -1,7 +1,7 @@
 # DVGB02-Lab1-networking
 C networking lab – web server + time server/client
 
-Time server 
+Time:
 
 1.Build the programs
   Compile the programs using gcc:
